@@ -1,0 +1,12 @@
+.DS_Store
+*.pages
+*.doc*
+*.key
+*.pdf
+*.jpeg
+*.numbers
+node_modules
+Monografias
+Other
+*.txt
+package-lock.json
